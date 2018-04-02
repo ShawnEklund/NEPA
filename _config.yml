@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+title: Shawn Eklund
+description: Jekyll is a clean markdown language, with a responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-design
